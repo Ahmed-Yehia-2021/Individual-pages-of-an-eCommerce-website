@@ -1,0 +1,22 @@
+First Name
+
+Last Name
+
+Sex
+
+Country
+
+Phone Number
+
+E-mail
+
+Username
+
+Password
+
+Confirm Password
+
+
+
+
+
